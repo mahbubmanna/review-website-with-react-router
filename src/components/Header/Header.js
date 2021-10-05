@@ -4,12 +4,11 @@ import { NavLink } from 'react-router-dom';
 const Header = () => {
     const activeStyle = {
         fontWeight: "bold",
-        color: "rgba(245, 158, 11, var(--tw-bg-opacity))"
     }
 
     return (
-        <div className="bg-green-800 text-white pt-8 py-2 mb-5 w-full">
-            <h1 className="text-5xl pb-3 text-yellow-500 font-extrabold">Winsome Football Academy</h1>
+        <div className="bg-gradient-to-b from-green-400 via-green-100 to-green-100 text-blck pt-8 py-2 mb-10 w-full">
+            <h1 className="text-7xl pb-3 text-black font-bold">Winsome Football Academy</h1>
             <nav>
                 <NavLink className="p-3" activeStyle={activeStyle} to="/home">Home</NavLink>
                 <NavLink className="p-3" activeStyle={activeStyle} to="/services">Services</NavLink>
