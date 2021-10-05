@@ -1,0 +1,82 @@
+[
+    {
+        "key": "001",
+        "name": "Beginner",
+        "season": "Year-Round",
+        "price": "$50 per month",
+        "duration": "60 min",
+        "info": "For kids at the beginning of their football journey",
+        "details": "This program concentrates on providing young players with a solid foundation in basic football skills.  This is achieved through fun and challenging exercises and small sided games. Coordination, agility, and balance are also key elements incorporated in this program.",
+        "img": "https://images.unsplash.com/photo-1609422644211-a85c36ee36a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "key": "002",
+        "name": "Developmental",
+        "season": "Year-Round",
+        "price": "$50 per month",
+        "duration": "60 min",
+        "info": "For kids who have basic football skills and ready to further their experience",
+        "details": "The perfect class for 7-11 year old players ready to further their football experience by increasing their skills.  Class work will focus on first touch, ball striking and passing to make sure that every player has a sound solid technical foundation of skills. ",
+        "img": "https://images.unsplash.com/photo-1600077063877-22118d6290eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "key": "003",
+        "name": "Junior Elite",
+        "season": "Year-Round",
+        "price": "$60 per month",
+        "duration": "60 min",
+        "info": "For Middle School aged players that are currently playing at advanced levels.",
+        "details": "This class is designed for players approximately 11-14 years old who have a solid foundation of basic skills and looking to challenge themselves to learn more advanced technical skills.",
+        "img": "https://images.unsplash.com/photo-1607417308541-7decac0f3025?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1169&q=80"
+    },
+    {
+        "key": "004",
+        "name": "Holiday Camp",
+        "season": "Winter and Summer Break",
+        "price": "$50 per season",
+        "duration": "90 min",
+        "info": "For boys & girls of all ages, abilities & experience",
+        "details": "For players want to spend their holiday break leaning basics of football. The training is focuses on ball control and understanding the game. This is the perfect class for recreational players that want to learn ball control and skills in addition to their practices.",
+        "img": "https://images.unsplash.com/photo-1528024522223-f295b5bae7b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "key": "005",
+        "name": "Elite",
+        "season": "Year-Round",
+        "price": "$90 per month",
+        "duration": "90 min",
+        "info": "High-level training for the serious players only.",
+        "details": " High-level training for the serious players only. Includes technical, tactical, strength, conditioning, and agility. Prepares players for high level conditions and games.",
+        "img": "https://images.unsplash.com/photo-1504305754058-2f08ccd89a0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "key": "006",
+        "name": "Shooting and Finishing Special Camp",
+        "season": "Spring, Autumn",
+        "price": "$100 per week",
+        "duration": "90 min",
+        "info": "A special program (8 weeks) for Forwards and Mid-fielders.",
+        "details": "A perfect short course to master all the finishing and shooting skills. Includes special  focus on dribling, freekicks, corners, ball control; as well as short-pass and power-shot.!",
+        "img": "https://images.unsplash.com/photo-1600551778275-0f76a4f1fa39?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "key": "007",
+        "name": "GK Special Camp",
+        "season": "Spring, Autumn",
+        "price": "$100 per week",
+        "duration": "90 min",
+        "info": "A special program (8 weeks) for Goalkeepers",
+        "details": "For all things Goalkeeping!  Drills address all areas of development from handling and footwork; diving; breakaways; high balls and crosses; as well as distribution. We train goalkeepers to be accountable, give 100% regardless of the outcome, and how to be leaders on and off the field.",
+        "img": "https://images.unsplash.com/photo-1543195185-9546bf592dc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "key": "008",
+        "name": "Defending Special Camp",
+        "season": "Spring, Autumn",
+        "price": "$100 per month",
+        "duration": "90 min",
+        "info": "A Special program (8 weeks) for defenders only.",
+        "details": " A perfect short course to master all the defending skills. Includes drills on tackles, heading, long passes, crosses; as well as heading and clearing.",
+        "img": "https://images.unsplash.com/photo-1631478855207-dfbb98b2249a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    }
+]
