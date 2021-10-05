@@ -32,8 +32,8 @@ const Home = () => {
             </div>
 
             {/*Featured Programmes  */}
-            <div className="featured w-11/12 mx-auto bg-green-100 rounded-2xl mb-10 ">
-                <h3 className="text-2xl font-bold"><u>Featured Programmes</u></h3>
+            <div className="featured w-11/12 mx-auto bg-green-100 rounded-2xl p-4 mb-10 ">
+                <h2 className="text-5xl font-bold">Featured Programmes</h2>
 
                 <div className="p-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-4 gap-4 ">
                     {
