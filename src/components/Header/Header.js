@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <div className="bg-gradient-to-b from-green-400 via-green-100 to-green-100 text-blck pt-8 py-2 mb-10 w-full">
             <h1 className="text-7xl pb-3 text-black font-bold">Winsome Football Academy</h1>
-            <nav>
+            <nav className="text-xl">
                 <NavLink className="p-3" activeStyle={activeStyle} to="/home">Home</NavLink>
                 <NavLink className="p-3" activeStyle={activeStyle} to="/services">Services</NavLink>
                 <NavLink className="p-3" activeStyle={activeStyle} to="/facilities">Facilities</NavLink>
