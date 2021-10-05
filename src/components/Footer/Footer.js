@@ -1,9 +1,10 @@
 import React from 'react';
 import CopyrightYear from 'react-copyright-year';
+// import './Footer.css'
 
 const Footer = () => {
     return (
-        <div className="bg-green-800 text-white pt-8 pb-3 w-full">
+        <div className="footer bg-green-800 text-white pt-8 pb-3 w-full">
             <h3 className="text-2xl font-extrabold">Winsome Football Academy</h3>
             <p>Phone: 75860155254 Email: winsomeacademy.com</p>
             <p>Cathedral Road, Cardiff</p>
