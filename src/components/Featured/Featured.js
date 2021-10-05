@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Featured = (props) => {
-    const { name, img, duration, price, season, info } = props.service;
+    const { name, img, price, info } = props.service;
 
     return (
         <div>

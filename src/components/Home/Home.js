@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './Home.css'
 import bannerImage from '..//../images/banner.png'
-import Service from '../Service/Service';
 import Featured from '../Featured/Featured';
 
 const Home = () => {
@@ -29,7 +28,7 @@ const Home = () => {
                 <div className="banner-image w-full">
                     <img src={bannerImage} className="rounded-full py-3 px-6" alt="" />
                 </div>
-                <div className="banner bg-gradient-to-r from-green-400 via-green-100 to-green-100 grid grid-cols-1 sm:grid-cols-2 w-11/12 m-auto"></div>
+
             </div>
             {/*Featured Programmes  */}
             <div className="featured w-11/12 mx-auto bg-green-100 rounded-2xl ">
